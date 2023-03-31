@@ -7,6 +7,8 @@
 # 		empty middle to target to get next even
 # 	even -> middle
 # 		empty taget to middle to get next odd
+#
+# to overcome its visual impairment, it counts.
 
 
 
