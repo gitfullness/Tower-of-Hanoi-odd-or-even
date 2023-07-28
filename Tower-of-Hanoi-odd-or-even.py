@@ -1,5 +1,4 @@
 # Tower of Hanoi
-# coded by Julia Hiyeon Kim (c)2022
 #
 # order of movements:
 # 	odd or even number of rings
@@ -9,7 +8,8 @@
 # 		empty taget to middle to get next odd
 #
 # to overcome its visual impairment, it counts.
-
+#
+# Julia Hiyeon Kim (2018)
 
 
 def count_moves(c):
